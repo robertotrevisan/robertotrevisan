@@ -1,6 +1,6 @@
 ### Roberto Trevisan
 
-DevOps | SRE | Infra as Code
+DevOps | SRE | AIOps Engineering | Infra as Code
 
 #### Projetos
 
